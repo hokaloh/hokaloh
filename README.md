@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hokaloh&label=Profile%20views&color=0e75b6&style=flat" alt="hokaloh" /> </p>
 
-- 🔭 I’m currently working on **saktihub.com**
+- I’m currently working on **saktihub.com**
 
-- 🌱 I’m currently learning **Machine Learning / Artificial Intelligence**
+- I’m currently learning **Machine Learning / Artificial Intelligence**
 
-- ⚡ Fun fact **Chill with coffee while learning new skills**
+- Fun fact **Chill with coffee while learning new skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
