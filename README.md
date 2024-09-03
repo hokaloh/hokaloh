@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hokaloh&label=Profile%20views&color=0e75b6&style=flat" alt="hokaloh" /> </p>
 
-- I’m currently working on **saktihub.com**
+- One of volunteer on **SaktiHub**
 
-- I’m currently learning **Machine Learning / Artificial Intelligence**
+- I’m expanding my knowledge in **Machine Learning / Artificial Intelligence**
 
 - Fun fact **Chill with coffee while learning new skills**
 
